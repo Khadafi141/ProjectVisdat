@@ -167,7 +167,7 @@ Pada pertanyaan bernomor ganjil, semakin tinggi nilai scale position, maka skor 
       <li>Indeks gini berdasarkan klasifikasi wilayah menurut provinsi di Indonesia (<i>stacked horizontal bar chart</i>).</li>
       <li>Persentase penduduk miskin menurut provinsi di Indonesia tahun 2011-2021 (tabular dan <i>line chart</i>).</li>
     </ul>
-  <li><i>Dashboard</i> informasi profil kemiskinan di Indonesia tahun 2021 berhasil dibuat sesuai sesuai desain melalui beberapa tahapan perancangan dan diakhiri dengan mempublikasikannya pada server Github pribadi. Halaman <i>dashboard</i> dapat diakses melalui tautan atau link berikut ini: https://raflizal17.github.io/Project-UAS-Visdat/</li>
+  <li><i>Dashboard</i> informasi profil kemiskinan di Indonesia tahun 2021 berhasil dibuat sesuai sesuai desain melalui beberapa tahapan perancangan dan diakhiri dengan mempublikasikannya pada server Github pribadi. Halaman <i>dashboard</i> dapat diakses melalui tautan atau link berikut ini: https://public.tableau.com/app/profile/muamar.khadafi8365/viz/Book2_16557144619270/DashboardProporsiABH</li>
   <li>Berdasarkan hasil survei pengujian evaluasi pada <i>dashboard</i> menggunakan pengukuran System Usability Scale (SUS) diperoleh nilai rata-rata skor SUS sebesar 76,88. Skor SUS tersebut masuk ke dalam kategori <i>acceptable, excellent</i>, dan <i>grade</i> B.</li>
   </ol>
   
